@@ -1,6 +1,6 @@
 # 📝 ToDo App
 
-This is a React-based ToDo application that helps you manage your tasks efficiently while✨
+This is a React-based ToDo application that helps you manage your tasks efficiently.✨
 
 👉 [Click here to view the live app](https://batcoder-1.github.io/To-Do-List/)
 
