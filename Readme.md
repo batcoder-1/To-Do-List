@@ -1,8 +1,8 @@
-# 📝 ToDo App with Random Motivational Quotes
+# 📝 ToDo App
 
-This is a React-based ToDo application that helps you manage your tasks efficiently while displaying a motivational quote every time you open the app. ✨
+This is a React-based ToDo application that helps you manage your tasks efficiently while✨
 
-👉 [Click here to view the live app](https://your-deployment-url.com)
+👉 [Click here to view the live app](https://batcoder-1.github.io/To-Do-List/)
 
 ## 🚀 Features
 
